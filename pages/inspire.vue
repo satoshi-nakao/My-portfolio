@@ -3,7 +3,6 @@
     <v-col class="text-center">
       <img
         src="/nakano3.jpg"
-        alt="Vuetify.js"
         class="mb-5"
       >
       <blockquote class="blockquote">
