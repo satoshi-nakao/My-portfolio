@@ -19,7 +19,9 @@
       </v-container>
     </v-main>
     <v-footer  dark app>
-      Vuetify
+    <v-layout justify-center>
+      <span>&copy; 2021 Satohsi Nakao. All Rights Reserved.</span>
+    </v-layout>
     </v-footer>
   </v-app>
 </template>zz
