@@ -34,7 +34,6 @@ export default {
       items: [
         {name: 'Profile',to: '/profile'},
         {name: 'Skill',to: '/skill'},
-        {name: 'Like',to: '/like'},
         {name: 'Want',to: '/want'},
         {name: 'Works', to: '/works'}
       ],
