@@ -35,7 +35,14 @@
               instagram
             </a>.
           </p>
-         
+         <p>
+          Nuxsjsの最新機能を実装しました⇒
+          <v-btn 
+           color="primary"
+           nuxt
+           to="/new"
+          >NEW!</v-btn>
+        </p>
          
         </v-card-text>
         <v-card-actions>
