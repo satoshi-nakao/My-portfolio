@@ -14,7 +14,7 @@ export default {
       { hid: 'description', name: 'description', content: '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/nakano3.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/portfolio-icon.ico' }
     ]
   },
 
