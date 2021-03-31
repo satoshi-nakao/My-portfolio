@@ -38,12 +38,12 @@ export default {
   data() {
     return {
      products:[
-            // {
-            //  name: 'My-portfolio-site',
-            //  description: '最初に作ったポートフォリオサイト',
-            //  image: '/my-portfolio.icon.jpg',
-            //  url: 'https://satoshi-portfolio-site.netlify.app/'
-            // },
+             {
+               name: 'my-portfolio-aws',
+               description: 'AWSにデプロイしたポートフォリオサイト',
+               image: '/my-portfolio-aws.icon.jpg',
+                url: 'https://main.dwxj83fmvw4pk.amplifyapp.com/'
+             },
             // {
             //  name: 'My-portfolio-site2',
             //  description: '二つ目に作ったポートフォリオサイト',
